@@ -1,0 +1,1 @@
+<h1>Simple Tailwind css responsive NavBar</h1>
